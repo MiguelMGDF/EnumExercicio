@@ -14,7 +14,7 @@ namespace EnumExercicio.Entities
 
         public Worker()
         {
-
+        
         }
 
         public Worker(string name, WorkerLevel level, double baseSalary, Department department)
